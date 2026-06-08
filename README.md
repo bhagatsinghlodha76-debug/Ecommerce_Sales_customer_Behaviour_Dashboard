@@ -115,7 +115,7 @@ The primary objectives of this project are:
 
 ### Sales Overview Dashboard
 
-![Sales Dashboard](Images/Overview_Dashboard.png)
+![Sales Dashboard](Overview_Dashboard.png)
 
 ### Customer Behaviour Dashboard
 
