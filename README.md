@@ -119,7 +119,7 @@ The primary objectives of this project are:
 
 ### Customer Behaviour Dashboard
 
-![Customer Dashboard](Images/Customer_Behaviour_Dashboard.png)
+![Customer Dashboard](Customer_Behaviour_Dashboard.png)
 # E-Commerce Sales & Customer Behaviour Analytics Dashboard
 
 ## Project Overview
